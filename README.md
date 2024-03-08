@@ -1,6 +1,7 @@
 
 # Black Hole Metrics and Wormhole Simulator
 
+![BhWh](https://github.com/HermiTech-LLC/BHmetrics_WHsim/blob/main/BhWh.PNG)
 ## Introduction
 
 This repository, maintained by HermiTech LLC, contains a Jupyter notebook (`BHmetrics_WHsim.ipynb`) that delves into advanced astrophysical concepts. It includes visualizations and simulations of Kerr Black Holes and Morris-Thorne Wormholes, merging theoretical astrophysics with interactive visualizations.
