@@ -50,7 +50,7 @@ To run the `sim.py` script:
 4. For Jupyter visualizations, open `BHmetrics_WHsim.ipynb` in Jupyter.
 5. For the Dash app, run `sim.py` in Python and access via the local server URL.
 
-Also! there is this useful [too!](https://github.com/HermiTech-LLC/MT-WormholeTool)
+Also! there is this useful [tool!](https://github.com/HermiTech-LLC/MT-WormholeTool)
 ## Contributing
 
 Contributions are welcome. Please fork the repository, make your changes, and submit a pull request for review.
