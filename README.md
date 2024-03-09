@@ -20,6 +20,8 @@ Interactive Jupyter notebook simulator for exploring the Morris-Thorne wormhole.
 
 ### 4. Dynamic Morris-Thorne Wormhole Visualizer (`sim.py`)
 A new standalone script, `sim.py`, utilizes Dash to create a dynamic, web-based visualizer for the Morris-Thorne wormhole. This application allows real-time interaction with the wormhole model by adjusting parameters like B0, Phi0, Spin, and Exotic Factor.
+____________________________________________
+
 ![sim](https://github.com/HermiTech-LLC/BHmetrics_WHsim/blob/main/IMG_7931.jpeg)
 #### Features
 - Real-time graph updates as parameters are changed
