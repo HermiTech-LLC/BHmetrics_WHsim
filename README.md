@@ -4,7 +4,7 @@
 ![BhWh](https://github.com/HermiTech-LLC/BHmetrics_WHsim/blob/main/BhWh.PNG)
 ## Introduction
 
-This repository, maintained by HermiTech LLC, contains a Jupyter notebook (`BHmetrics_WHsim.ipynb`) that delves into advanced astrophysical concepts. It includes visualizations and simulations of Kerr Black Holes and Morris-Thorne Wormholes, merging theoretical astrophysics with interactive visualizations.
+This repository, maintained by HermiTech LLC, contains a Jupyter notebook (`BHmetrics_WHsim.ipynb`) that delves into advanced astrophysical concepts. It includes visualizations and simulations of Kerr Black Holes and Morris-Thorne Wormholes, merging theoretical astrophysics with interactive visualizations using Plotly and ipywidgets.
 
 ## Contents
 
@@ -12,9 +12,9 @@ The notebook encompasses several key sections:
 
 1. **Kerr Black Hole Visualization**: Demonstrates the visualization of the event horizon and ergosphere of a Kerr black hole, highlighting the impacts of rotation on the spacetime geometry of black holes.
 
-2. **Morris-Thorne Wormhole Plot**: Offers a visual representation of the Morris-Thorne wormhole, a theoretical concept in spacetime physics, illustrating a traversable wormhole.
+2. **Morris-Thorne Wormhole Plot**: Offers a visual representation of the Morris-Thorne wormhole, a theoretical concept in spacetime physics, illustrating a traversable wormhole using interactive Plotly graphs.
 
-3. **Advanced Wormhole Simulator**: Incorporates an interactive simulator using wxPython and VPython, facilitating the exploration of the Morris-Thorne wormhole under various parameters, including effects from exotic matter and spin.
+3. **Advanced Wormhole Simulator**: Incorporates an interactive simulator using Plotly and ipywidgets in a Jupyter notebook environment. This simulator allows exploration of the Morris-Thorne wormhole under various parameters, including effects from exotic matter and spin.
 
 ## Requirements
 
@@ -22,14 +22,14 @@ To use this notebook, you will need:
 
 - Python 3.x
 - Jupyter Notebook or JupyterLab
-- Necessary Python libraries including `numpy`, `matplotlib`, `vpython`, and `wxPython` (users should manually install these libraries)
+- Necessary Python libraries including `numpy`, `plotly`, `ipywidgets` (users should manually install these libraries)
 
 ## Installation and Usage
 
 To run the notebook:
 
 1. Ensure Python 3.x and Jupyter Notebook/JupyterLab are installed.
-2. Install the required Python libraries (`numpy`, `matplotlib`, `vpython`, `wxPython`).
+2. Install the required Python libraries (`numpy`, `plotly`, `ipywidgets`).
 3. Clone the repository: `git clone https://github.com/HermiTech-LLC/BHmetrics_WHsim.git`.
 4. Launch Jupyter Notebook or JupyterLab.
 5. Open `BHmetrics_WHsim.ipynb`.
